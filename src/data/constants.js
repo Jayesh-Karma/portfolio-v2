@@ -147,7 +147,7 @@ export const experiences = [
     role: "Frontend Engineer Intern",
     company: "Innovacio Technology",
     date: "March 2025 - July 2025",
-    desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
+    desc: "I am currently a Full Stack Developer (MERN) Intern at Innovacio Technologies, contributing to an ERP software. I worked on the frontend, enhanced the UI for a better user experience, and implemented pagination to optimize data loading. Additionally, I developed a file validation function to ensure secure uploads. This hands-on experience has sharpened my skills in React.js, performance optimization, and backend handling, while reinforcing my ability to build efficient and user-friendly applications.",
     skills: [
       "ReactJS",
       "Redux",
